@@ -1,0 +1,9 @@
+digraph "F:/GitHub/JGCLElib/src/gposition" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_e6dcfbdfd38a14aa8ee81b61782bf0ca {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="Helvetica", fontsize="10", URL="dir_e6dcfbdfd38a14aa8ee81b61782bf0ca.html"]
+  dir_dcd2baa121142230564a35ffc88371fe [shape=box, label="gposition", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_dcd2baa121142230564a35ffc88371fe.html"];
+  }
+}
